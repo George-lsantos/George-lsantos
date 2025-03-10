@@ -1,10 +1,9 @@
-👋 Sobre mim
-  Sou George Luís, apaixonado por Infraestrutura, Cloud, SRE e DevOps.
-  💼 Profissional com experiência em suporte e infraestrutura de TI, focado no aprendizado e aplicação de Windows, Linux, Cloud AWS, IaC com Terraform, Docker, Kubernetes, GitHub e observabilidade com Prometheus/Grafana.
+👋 Olá, Sou George Luís, apaixonado por Infraestrutura, Cloud, SRE e DevOps.
+  - 💼 Profissional com experiência em suporte e infraestrutura de TI, focado no aprendizado e aplicação de Windows, Linux, Cloud AWS, IaC com Terraform, Docker, Kubernetes, GitHub e observabilidade com Prometheus/Grafana.
 
 🎯 O que estou fazendo atualmente?
-  🌱 Aprimorando meus conhecimentos em AWS, Kubernetes (CKA), Terraform, CI/CD e Linux.
-  💡 Buscando oportunidades para contribuir em projetos open-source voltados para Infraestrutura como Código (IaC), automação e observabilidade.
+ - 🌱 Aprimorando meus conhecimentos em AWS, Kubernetes (CKA), Terraform, CI/CD e Linux.
+ - 💡 Buscando oportunidades para contribuir em projetos open-source voltados para Infraestrutura como Código (IaC), automação e observabilidade.
 
 📫 Como me encontrar?
  - 📧 E-mail: george.lsantos@outlook.com
