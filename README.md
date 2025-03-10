@@ -1,4 +1,4 @@
-👋 Olá, Sou George Luís, apaixonado por Infraestrutura, Cloud, SRE e DevOps.
+👋 Olá, Sou George Luís, interessado e apaixonado por Infraestrutura, Cloud, SRE e DevOps.
   - 💼 Profissional com experiência em suporte e infraestrutura de TI, focado no aprendizado e aplicação de Windows, Linux, Cloud AWS, IaC com Terraform, Docker, Kubernetes, GitHub e observabilidade com Prometheus/Grafana.
 
 🎯 O que estou fazendo atualmente?
